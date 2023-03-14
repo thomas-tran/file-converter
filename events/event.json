@@ -1,0 +1,10 @@
+{
+  "job-id": "a28123",
+  "job-type": "FileConversion",
+  "detail": {
+    "source-url": "s3://test/test.laz",
+    "source-format": "laz",
+    "destination-format": "potree",
+    "destination-url": ""
+  }
+}
